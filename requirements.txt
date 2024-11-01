@@ -1,0 +1,3 @@
+unstructured
+python-magic
+python-magic-bin
